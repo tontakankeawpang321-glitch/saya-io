@@ -1,0 +1,6 @@
+{
+  "name": "Corporate Document Hub & Simulator",
+  "description": "ระบบคลังข้อมูลเอกสารองค์กรและเครื่องมือร่างจำลองเอกสาร (Live Document Draft Simulator) ดึงเอกสารมาแก้ไขจริง รองรับไฟล์ Word (.docx), PDF, Text, อัปโหลดและปรับแต่งโลโก้/ตราสัญลักษณ์ แทรกรูปภาพ ปรับขนาดกระดาษ A4/Legal/Letter เสมือนจริง และส่งออก .doc",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
